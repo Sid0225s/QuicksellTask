@@ -3,7 +3,6 @@ import styles from "./User.module.css";
 import plusmore from "../../assets/plusmore.png";
 import availableimg from "../../assets/availableimg.png";
 import notavailableimg from "../../assets/notavailableimg.png";
-
 import usr1 from "../../assets/usr1.png";
 import usr2 from "../../assets/usr-2.png";
 import usr3 from "../../assets/usr-3.png";

@@ -15,7 +15,6 @@
 
 .cardId {
   color: #6c7077;
-  font-family: "Inter";
   font-size: 12px;
   font-style: "normal";
   font-weight: 400;
@@ -28,7 +27,6 @@
   flex-direction: row;
   gap: 4px;
   color: #000000;
-  font-family: "Inter";
   font-size: 12px;
   font-style: "normal";
   font-weight: 600;
@@ -66,7 +64,6 @@
   max-width: 18px;
 }
 .tagText {
-  font-family: "Inter";
   font-size: 10px;
   font-style: "normal";
   font-weight: 400;
@@ -161,7 +158,6 @@
     flex-direction: row;
     gap: 4px;
     color: #000000;
-    font-family: "Inter";
     font-size: 12px;
     font-style: "normal";
     font-weight: 600;

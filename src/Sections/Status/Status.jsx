@@ -147,6 +147,7 @@ const Board = ({ imgSrc, title, count, tickets, users }) => {
   return (
     <div className={styles.Board}>
       <div className={styles.boardHeading}>
+        <div></div>
         <img src={imgSrc} className={styles.headingImg} alt="" />
         <p className={styles.cText}>{title}</p>
         <p className={styles.cText}>{count}</p>
